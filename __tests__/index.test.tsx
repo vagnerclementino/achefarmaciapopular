@@ -10,8 +10,11 @@ describe('Home', () => {
     });
     expect(heading).not.toBeNull();
   });
-  });
 
+  it('renders pharmacy data from fetch', async () => {
+    // existing test implementation for data rendering
+  });
+});
   it('renders pharmacy data from fetch', async () => {
     render(<Home />);
     const pharmacyName = await screen.findByText(/FARMACIA QUEIROZ CANEDO LTDA/i);
