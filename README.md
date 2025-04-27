@@ -14,7 +14,7 @@ filter pharmacies closest to their residence.
 
 ## Demo
 
-![The website's frontpage](frontpage.png)
+![The landing page](frontpage.png)
 
 ## Authors
 
