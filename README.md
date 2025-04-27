@@ -10,6 +10,28 @@ filter pharmacies closest to their residence.
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Development Setup
+
+This project uses [Husky](https://typicode.github.io/husky/) for Git hooks. After cloning the repository:
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Set up Husky:
+```bash
+npx husky install
+```
+
+The pre-configured hooks are:
+- `pre-push`: Runs tests before pushing to ensure code quality
+
+To add a new hook:
+```bash
+npx husky add .husky/<hook-name> "command-to-run"
+```
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/vagnerclementino/achefarmaciapopular?utm_source=oss&utm_medium=github&utm_campaign=vagnerclementino%2Fachefarmaciapopular&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 ## Demo
