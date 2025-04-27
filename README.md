@@ -1,5 +1,5 @@
 
-# Project Title
+# Ache uma Farmácia Popular
 
 The "Farmácia Popular" Program of Brazil government has a page with accredited
 pharmacies, but it is being posted in [xlsx
@@ -10,6 +10,7 @@ filter pharmacies closest to their residence.
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/vagnerclementino/achefarmaciapopular?utm_source=oss&utm_medium=github&utm_campaign=vagnerclementino%2Fachefarmaciapopular&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 ## Development Setup
 
@@ -32,7 +33,6 @@ To add a new hook:
 ```bash
 npx husky add .husky/<hook-name> "command-to-run"
 ```
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/vagnerclementino/achefarmaciapopular?utm_source=oss&utm_medium=github&utm_campaign=vagnerclementino%2Fachefarmaciapopular&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 
 ## Demo
 
