@@ -14,7 +14,7 @@ filter pharmacies closest to their residence.
 
 ## Demo
 
-![](2025-04-25-19-12-02.png)
+![The website's frontpage](frontpage.png)
 
 ## Authors
 
@@ -28,10 +28,10 @@ my Java, Kotlin, Python, and Go skills while delving into Node and Lua
 programming languages. Alongside my Master's degree in Software Engineering, I
 have achieved significant milestones as a Tech Leader and currently as a Staff
 Engineer. My greatest accomplishment lies in nurturing the growth of
-individuals, valuing their development as much as the software itself
+individuals, valuing their development as much as the software itself.
 
 ## 🔗 Links
 
 [![portifolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://clementino.me)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vclementino)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vclementino)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/vclementino)
